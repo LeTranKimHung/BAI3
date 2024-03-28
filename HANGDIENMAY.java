@@ -26,7 +26,7 @@ public class HANGDIENMAY extends HANGHOA {
         System.out.println("Dien ap: " + dienap);
         System.out.println("Cong suat: " + congsuat);
     }
-    //bỏ hàm nhap là ra 2a.
+    //bỏ hàm nhap là ra 3a.
     public void nhap() {
         super.nhap();
         Scanner x = new Scanner(System.in);
