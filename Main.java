@@ -21,6 +21,7 @@ public class Main {
 ////        System.out.print("Nhap cong suat: ");
 ////        int congsuat = x.nextInt();
 ////        HANGDIENMAY dm = new HANGDIENMAY(mahang, tenhang, dongia, baohanh, dienap, congsuat);
+        //{cái này là 2a
 //        HANGDIENMAY dm = new HANGDIENMAY("DM01", "Phone", 15000000, 12, 220, 200);
 //        System.out.println("Thong tin mat hang dien may:");
 //        dm.thongTin();
@@ -28,6 +29,7 @@ public class Main {
 //        HANGTP tp = new HANGTP("TP02", "Sua chua", 20000, LocalDate.of(2024,2,20), LocalDate.of(2024, 7, 20));
 //        System.out.println("Thong tin mat hang thuc pham:");
 //        tp.thongTin();
+        //hết 2a.}
 //
 ////        System.out.println("Nhap thong tin mat hang thuc pham:");
 ////        System.out.print("Nhap ma hang: ");
@@ -49,6 +51,7 @@ public class Main {
 ////        tp.thongTin();
 //    }
 //}
+        //bỏ hết là ra 3a.
         byte chon, loai;
         Scanner doc = new Scanner(System.in);
         DSHANGHOA dshh = new DSHANGHOA();
