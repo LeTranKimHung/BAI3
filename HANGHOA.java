@@ -17,6 +17,7 @@ public class HANGHOA {
         System.out.println("Ten hang: " + tenhang);
         System.out.println("Gia: " + dongia);
     }
+    //bỏ hàm này là ra 3a.
     public void nhap() {
         Scanner x= new Scanner(System.in);
         System.out.print("Nhap ma hang: ");
