@@ -20,6 +20,7 @@ public class HANGTP extends HANGHOA {
         System.out.println("Ngay san xuat: " + ngaySX);
         System.out.println("Ngay het han: " + ngayHH);
     }
+    //bỏ hàm nhap là ra 2 a.
     public void nhap() {
         super.nhap();
         Scanner x= new Scanner(System.in);
